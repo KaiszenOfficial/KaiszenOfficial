@@ -2,10 +2,12 @@
 ## 👀 I am a currently working as a Fullstack Developer.
 ## 🌱 My key skills include
 - [Server Side]
-  - NodeJS - Express and NestJS
+  - NodeJS (Express and NestJS)
+  - Java (Spring Boot)
 - [Client Side]
   - Angular - Working with Angular since version 2
   - ReactJS
+  - Basic HTML, CSS and Javascript
 - [Desktop Applications]
   - Electron
 
